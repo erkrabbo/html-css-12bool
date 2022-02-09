@@ -1,0 +1,13 @@
+.flex{
+    display: flex;
+}
+
+.blueBlock{
+    padding: 1rem;
+    border: 1px solid white;
+
+    text-align: center;
+
+    color: white;
+    background-color: blue;
+}
