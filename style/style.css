@@ -9,10 +9,16 @@
 }
 
 
+
+
+/* UTILITY */
 .flex{
     display: flex;
 }
 
+
+
+/* STRUCT */
 .blueBlock{
     display: flex;
     align-items: center;
