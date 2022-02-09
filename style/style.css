@@ -1,3 +1,14 @@
+
+/* MARGINS */
+.mrTop-2{
+    margin-top: 2rem;
+}
+
+.mrBot-1{
+    margin-bottom: 1rem;
+}
+
+
 .flex{
     display: flex;
 }
